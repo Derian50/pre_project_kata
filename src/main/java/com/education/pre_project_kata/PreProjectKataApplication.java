@@ -2,7 +2,7 @@ package com.education.pre_project_kata;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+//smth
 @SpringBootApplication
 public class PreProjectKataApplication {
 
